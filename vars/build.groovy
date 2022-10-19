@@ -1,3 +1,3 @@
-def call(building){
-  sh "$building" 
+def call(build){
+  sh "$build" 
  }
