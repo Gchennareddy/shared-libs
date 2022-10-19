@@ -1,3 +1,3 @@
 def call(checkouting){
-   git "${checkouting}"
+   git "$checkouting"
 }
