@@ -1,3 +1,3 @@
 def call(build){
-  sh "$build" 
+  sh "${build}" 
  }
