@@ -1,3 +1,3 @@
 def call(checkout){
-   sh "$checkout"
+   git "$checkout"
 }
